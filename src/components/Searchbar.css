@@ -1,0 +1,32 @@
+.search {
+  width: 70%;
+  justify-content: center;
+  margin-right: 0;
+}
+
+.MuiFormControl-root {
+  margin-top: 17px;
+  border-radius: 50px;
+  border-width: 2px;
+  background-color: WHITE;
+}
+
+.MuiInputLabel-outlined.MuiInputLabel-shrink {
+    transform: translate(20px, -6px) scale(0.75);
+}
+
+.MuiInputLabel-outlined {
+    transform: translate(14px, 13px) scale(1);
+  }
+
+.MuiOutlinedInput-root {
+  border-radius: 50px;
+  background-color: WHITE;
+  height: 40px;
+}
+
+@media only screen and (max-width: 728px) {
+  .search {
+    margin-left: 15px;
+  }
+}

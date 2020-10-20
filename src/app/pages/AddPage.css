@@ -1,0 +1,15 @@
+#addForm{
+  padding: 20px;
+}
+
+#addButtons{
+  margin: 20px;
+}
+
+#categories {
+    display: flex;
+}
+
+.chip {
+  margin: 10px;
+}

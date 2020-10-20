@@ -1,0 +1,12 @@
+.Title {
+    font-size: 6vh;
+    font-family: 'Roboto';
+    margin: 20px 20px;
+}
+
+.Body {
+    display: flex;
+    padding: 10px 10px;
+    overflow-x: scroll;
+    background-color: rgba(217, 4, 41, .75);
+}

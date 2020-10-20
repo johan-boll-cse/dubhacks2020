@@ -1,0 +1,51 @@
+.Overall {
+    display: flex;
+    flex-direction: column;
+}
+
+.Header {
+    display: flex;
+    background-color: #dedede;
+    opacity: .75;
+    height: 74px;
+    width: 100%;
+}
+
+
+.PageTitle {
+    margin: 10px;
+    width: 80vw;
+    font-size: calc(20px + 4vw);
+    align-self: center;
+    text-align: center;
+}
+
+.Description {
+    margin: 40px;
+    width: 80vw;
+    font-size: calc(5px + 1vw);
+    align-self: center;
+}
+
+.Image {
+    align-self: center;
+    width: 80vw;
+    outline: 3px solid black;
+}
+
+.TaskLogo {
+    margin-right: auto;
+    margin-left: 15px;
+    margin-top: 15px;
+    height: 44px;
+}
+
+.BackContainer {
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.Back {
+    margin-left: auto;
+    height: 44px;
+}
